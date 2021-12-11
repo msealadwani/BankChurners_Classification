@@ -3,7 +3,7 @@
 In this project the main thing is to predict between credit card and customers in general by using classification models for example :a manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction.
 
 # Dataset Description:
-This data has **10127 rows and 23 columns.**, This dataset can be found at [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers).
+This data has **10127 rows and 23 columns.**, and it dataset can be found at [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers).
 
 
 
