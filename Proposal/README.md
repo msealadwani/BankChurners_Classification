@@ -37,15 +37,30 @@ This data has **10127 rows and 23 columns.**, and it dataset can be found at [Ka
 
 
 ## Tools
-There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through Jupyter notebook.
-
+- Jupyter
+- Python
+- Pandas
+- Numpy
+- Seaborn
+- Scikit learn
+- Zoom
 
 ## Questions that needs to be answered:
 
 - What is the most Income Category based on Attrition Flag?
 - Is the Education Level affect on the Income Category?
-- Does `Customer_Age` influnce the `Marital_Statu?
-- Which income category can be types with card category?
+- Does `Customer_Age` influnce the `Marital_Status`?
+- Which card category has been used the most?
+
+## Algorithms
+- K-Nearest Neighbor
+- Logistic Regression
+- Decision Tree 
+- Random Forest 
+- Extreme Gradient Boost
+- Light Gradient Boost
+- Stacking
+
 
 ## Authors:
 - [@msealadwani](https://github.com/msealadwani)
