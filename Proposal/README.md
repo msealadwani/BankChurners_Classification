@@ -64,6 +64,6 @@ This data has **10127 rows and 23 columns.**, and it dataset can be found at [Ka
 
 ## Authors:
 - [@msealadwani](https://github.com/msealadwani)
-- [@Yazeed-11](https://github.com/Yazeed-11)
+- [@Yazeeed11](https://github.com/Yazeeed11)
 - [@MahaAlHarqan](https://github.com/MahaAlHarqan)
 - [@Moha0014](https://github.com/Moha0014)
